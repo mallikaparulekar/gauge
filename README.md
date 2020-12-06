@@ -1,2 +1,2 @@
 # gauge
-An app for teachers to gauge mass student understanding
+An app for teachers to gauge student understanding
