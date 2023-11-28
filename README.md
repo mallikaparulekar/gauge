@@ -1,5 +1,5 @@
 # gauge
-An app for teachers to gauge student understanding
+An app for teachers to gauge student understanding - Winner at HackDuke 2020
 
 This repo contains code for a convoluted neural network (CNN) that detects the seven universal facial expressions. [Anger, Disgust, Fear, Happiness, Neutral, Sadness, Fear].  
 
